@@ -25,11 +25,11 @@ Una vez hechos los cambios en las líneas del archivo ensutils-testnet.js. Empec
 
 Mi cuenta con ETH es 0xd58836790921eb6305d661b0fb5ded43ca175051
 
- ![Dirección y ETH](https://github.com/aethnakb/dev-pec2/blob/master/ejercicio-1/ensutils%20carga%20consola.png "Dirección y ETH")
+ ![Dirección y ETH](https://github.com/anakb/dev-pec2.2/blob/master/ejercicio1/1.png "Dirección y ETH")
 
 Una vez abierta la consola de Ethereum cargué el archivo ensutils-testnet.js:
 
-![Carga de archivo ensutils-testnet.js modificado para Rinkeby](https://github.com/anakb/dev-pec2/blob/master/ejercicio-1/ensutils%20carga%20consola.png "Carga de archivo ensutils-testnet.js modificado para Rinkeby")
+![Carga de archivo ensutils-testnet.js modificado para Rinkeby](https://github.com/anakb/dev-pec2.2/blob/master/ejercicio1/2.png "Carga de archivo ensutils-testnet.js modificado para Rinkeby")
 
 Después comprobé que el nombre que quería registrar no tenía dueño:
 
@@ -49,11 +49,11 @@ A continuación ordené a ENS a utilizar el public resolver para mi nombre de do
 
 Para comprobar que la transacción se había minado fui a etherscan:
 
-![Transacción minada](https://github.com/anakb/dev-pec2/blob/master/ejercicio-1/ensutils%20carga%20consola.png "Transacción minada")
+![Transacción minada](https://github.com/anakb/dev-pec2.2/blob/master/ejercicio1/3.png "Transacción minada")
 
 Asimismo, pude comprobar que la transsacción se había operado en el cliente geth:
 
-![Transacciones en Geth](https://github.com/anakb/dev-pec2/blob/master/ejercicio-1/ensutils%20carga%20consola.png "Transacciones en Geth")
+![Transacciones en Geth](https://github.com/anakb/dev-pec2.2/blob/master/ejercicio1/4.png "Transacciones en Geth")
 
 Una vez comprobado que se había minado mi transacción procedí a solicitar al Resolver a "resolver" el nombre de dominio para mi cuenta:
 
@@ -61,7 +61,7 @@ Una vez comprobado que se había minado mi transacción procedí a solicitar al 
 
 Lo que me devolvió el siguiente hash de la transacción: 0xb5b113a266a38ee23c699ced015650bd387eeed50603d807abfbad09e3b4a523
 
-![Vinculación de cuenta con nombre de dominio](https://github.com/anakb/dev-pec2/blob/master/ejercicio-1/ensutils%20carga%20consola.png "Vinculación de cuenta con nombre de dominio")
+![Vinculación de cuenta con nombre de dominio](https://github.com/anakb/dev-pec2.2/blob/master/ejercicio1/5.png "Vinculación de cuenta con nombre de dominio")
 
 Para comprobar la vinculación de mi address con el nombre de dominio ejecuté las siguientes instrucciones:
 
@@ -71,6 +71,6 @@ Para comprobar la vinculación de mi address con el nombre de dominio ejecuté l
 
 Para ambas instrucciones el resultado fue mi address: 0xd58836790921eb6305d661b0fb5ded43ca175051. Por tanto, soy la propietaria del dominio. 
 
-![Comprobación de dominio](https://github.com/anakb/dev-pec2/blob/master/ejercicio-1/ensutils%20carga%20consola.png "Comprobación de dominio")
+![Comprobación de dominio](https://github.com/anakb/dev-pec2.2/blob/master/ejercicio1/6.png "Comprobación de dominio")
 
 
