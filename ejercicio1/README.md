@@ -6,7 +6,7 @@
 
 ---
 
-Para sincronizar el nodo con Rinkeby he utilizado el cliente de Geth: 
+Para sincronizar el nodo con Rinkeby he utilizado el cliente Geth: 
 
 `geth --rinkeby`
 
@@ -15,11 +15,12 @@ La sincronización tardó un par de días.
 Mientras inicializaba la sincronización me bajé del repositorio de ENS en GIT HUB (ens-master.zip). Del repositorio copié el archivo ensutils-testnet.js donde realicé los siguientes cambios para trabajar en Rinkeby:
 
 `contract address: 0xe7410170f87102df0055eb195163a03b7f2bff4a (line 220)`
+
 `publicResolver address: 0x5d20cf83cb385e06d2f2a892f9322cd4933eacdc (line 1314)`
 
 Una vez hechos los cambios en las líneas del archivo ensutils-testnet.js. Empecé a usar la consola de Ethereum con las siguientes instrucciones:
 
-`Rinkeby: geth --rinkeby attach`
+`geth --rinkeby attach`
 
 `eth.accounts` 
 
