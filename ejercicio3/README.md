@@ -92,3 +92,21 @@ En nuestro caso:
 `swarm --recursive up dist`
 
 ![06.png](https://github.com/anakb/dev-pec2.2/blob/master/ejercicio3/06.png "06")
+
+---
+
+**7. Ver el navegador resuelve a nuestro proyecto**
+
+Apuntamos el navegador a:
+
+[http://localhost:8500/bzz:/f8ec9e927e3a3d5c542dec7f41bc11cf09e6dc73d17c6b31e55fcf29583dc0be/index.html](http://localhost:8500/bzz:/f8ec9e927e3a3d5c542dec7f41bc11cf09e6dc73d17c6b31e55fcf29583dc0be/index.html)
+
+![07.png](https://github.com/anakb/dev-pec2.2/blob/master/ejercicio3/07.png "07")
+
+---
+
+**8. Ver que funciona**
+
+Interactuar con la app teniendo ganache corriendo y habiendo hecho el truffle migrate.
+
+Funciona!
