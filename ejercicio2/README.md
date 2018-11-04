@@ -139,10 +139,16 @@ Apuntamos nuestro navegador a:
 
 ![09.png](https://github.com/anakb/dev-pec2.2/blob/master/ejercicio2/09.png "09")
 
+Transacción con metamask:
+
 ![10.png](https://github.com/anakb/dev-pec2.2/blob/master/ejercicio2/10.png "10")
 
-![11.png](https://github.com/anakb/dev-pec2.2/blob/master/ejercicio2/09.png "11")
+Transacciones minadas:
 
-![12.png](https://github.com/anakb/dev-pec2.2/blob/master/ejercicio2/09.png "12")
+![11.png](https://github.com/anakb/dev-pec2.2/blob/master/ejercicio2/11.png "11")
+
+Operaciones confirmadas:
+
+![12.png](https://github.com/anakb/dev-pec2.2/blob/master/ejercicio2/12.png "12")
 
 ---
